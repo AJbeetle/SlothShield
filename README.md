@@ -1,4 +1,4 @@
-# SlothShiled
+# SlothShield
 Detection and Mitigation of Slowloris DDoS attack using ML tool
 
 The project is divided into two main parts :-
